@@ -70,7 +70,9 @@ h1{
 }
 
 .text-animation{
+    left: -500px;
     position:relative;
+    justify-content: center;
   font-size:80px;
   font-weight:600;
   color:black;
